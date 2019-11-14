@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    { "item": "sb:tiny_emerald" },
+    { "item": "sb:tiny_emerald" },
+    { "item": "sb:tiny_emerald" },
+    { "item": "sb:tiny_emerald" },
+    { "item": "sb:tiny_emerald" },
+    { "item": "sb:tiny_emerald" },
+    { "item": "sb:tiny_emerald" },
+    { "item": "sb:tiny_emerald" }
+  ],
+  "result": {
+    "item": "sb:small_emerald",
+    "count": 1
+  }
+}

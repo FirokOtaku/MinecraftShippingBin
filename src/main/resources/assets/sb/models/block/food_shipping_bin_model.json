@@ -1,0 +1,11 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "up": "sb:blocks/food_shipping_bin_side",
+    "down": "sb:blocks/food_shipping_bin_side",
+    "north": "sb:blocks/food_shipping_bin_side",
+    "south": "sb:blocks/food_shipping_bin_side",
+    "west": "sb:blocks/food_shipping_bin_side",
+    "east": "sb:blocks/food_shipping_bin_side"
+  }
+}

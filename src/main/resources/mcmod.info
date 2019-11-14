@@ -1,0 +1,18 @@
+[
+  {
+    "modid": "sb",
+    "name": "ShippingBin",
+    "description": "A simple mod adding shipping-bins to transform useless items",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "https://github.com/351768593",
+    "updateUrl": "",
+    "authorList": [
+      "Firok"
+    ],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]

@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "normal": {
+      "model": "sb:food_shipping_bin_model"
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    { "item": "sb:food_shipping_bin" },
+    { "item": "minecraft:hopper" }
+  ],
+  "result": {
+    "item": "sb:food_shipping_bin_advanced",
+    "count": 1
+  }
+}
