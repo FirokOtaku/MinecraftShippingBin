@@ -6,7 +6,7 @@ A simple mod adding shipping-bins to transform useless items.
 
 这个mod为个人用途, 所以不负责修复bug
 
-This mod is mostly for personally use, no bugs to be fixed if exist.
+This mod is mostly for personal use, no bugs to be fixed if exist.
 
 > shipping-bin-0.9 2019-11-15 00:00
 
